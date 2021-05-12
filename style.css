@@ -1,0 +1,7 @@
+row { width: 100%;
+    margin: 0 ;text-align: center;}
+          
+.outer {border: 2px solid black; width: 300px;margin: 5px;
+    float: left; background-color: gray;}
+          
+.inner {text-align: right;}
